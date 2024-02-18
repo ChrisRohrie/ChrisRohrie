@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ChrisRohrie
+- 👋 Hi, I’m @ChrisRothrie
 - 👀 I’m interested in learning how to be a full stack dev!
 - 🌱 I’m currently learning all things javascript and currently on node.js
 - 😄 Pronouns: he/him/his
